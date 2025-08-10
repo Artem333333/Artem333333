@@ -19,7 +19,7 @@ Student | Cybersecurity Enthusiast | Ethical Hacker
 [C, C++, Python, Ruby, Bash, PowerShell]
 > skills
 Languages: [C, C++, Python, Ruby, Bash]
-Tools: [Kali Linux, Metasploit, Wireshark, Nmap, John the Ripper, Gobuster, Ghidra, IDA Pro]
+Tools: [Kali Linux, Metasploit, Wireshark, Nmap, John the Ripper, Gobuster, Ghidra, IDA Pro, and many more]
 Fields: [Pentest, CTF, Network Analysis, Secure Automation]
 > About Me 
 Studying Cybersecurity
