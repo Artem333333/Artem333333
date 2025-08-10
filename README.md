@@ -1,16 +1,34 @@
-## Hi there 👋
+<!-- Матрица в шапке -->
+<p align="center">
+  <img src="https://media.giphy.com/media/oEI9uBYSzLpBK/giphy.gif" width="100%" alt="Matrix Rain">
+</p>
 
-<!--
-**Artem333333/Artem333333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Живой текст -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=600&lines=Access+Granted...;whoami...;Loading+Profile...;Tenz+%7C+Cybersecurity;Ethical+Hacker;;Welcome+to+my+GitHub" alt="Typing SVG">
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 🕶️ Tenz — Cybersecurity  & Ethical Hacker
+
+```bash
+> whoami
+Student | Cybersecurity Enthusiast | Ethical Hacker 
+> locate skills
+[C, C++, Python, Ruby, Bash, PowerShell]
+> skills
+Languages: [C, C++, Python, Ruby, Bash]
+Tools: [Kali Linux, Metasploit, Wireshark, Nmap, John the Ripper, Gobuster, Ghidra, IDA Pro]
+Fields: [Pentest, CTF, Network Analysis, Secure Automation]
+> About Me 
+Studying Cybersecurity
+Learning Ethical Hacking & Pentesting
+Interested in Linux Security, Windows Security, Android Security, Network Defense, 
+Work in a threat-hunting & pentest team & Red team & Blue team
+> Favorite Hacker Groups 
+{
+  Shadow Brokers
+  Equation Group
+  Vault 7 (WikiLeaks)
+}
