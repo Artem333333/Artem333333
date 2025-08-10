@@ -26,9 +26,4 @@ Studying Cybersecurity
 Learning Ethical Hacking & Pentesting
 Interested in Linux Security, Windows Security, Android Security, Network Defense, 
 Work in a threat-hunting & pentest team & Red team & Blue team
-> Favorite Hacker Groups 
-{
-  Shadow Brokers
-  Equation Group
-  Vault 7 (WikiLeaks)
-}
+
