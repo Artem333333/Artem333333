@@ -16,9 +16,9 @@
 > whoami
 Student | Cybersecurity Enthusiast | Ethical Hacker 
 > locate skills
-[C, C++, Python, Ruby, JavaScript, Bash, PowerShell]
+[C, C++, C#, Python, Ruby, JavaScript, Bash, PowerShell]
 > skills
-Languages: [C, C++, Python, Ruby, JavaScript]
+Languages: [C, C++, C#, Python, Ruby, JavaScript]
 Tools: [Kali Linux, Metasploit, Wireshark, Nmap, John the Ripper, Gobuster, Hydra, Ghidra, IDA Pro, and many more]
 Fields: [Pentest, CTF, Network Analysis, Secure Automation]
 > About Me 
